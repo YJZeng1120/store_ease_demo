@@ -1,5 +1,7 @@
 # Store Ease App
 
+![store_ease_cover](https://github.com/YJZeng1120/store_ease_demo/assets/84773273/00a1d954-1b43-43c0-addb-dde43ce68962)
+![store_ease](https://github.com/YJZeng1120/store_ease_demo/assets/84773273/56eed8fb-d2ea-425c-8dd0-9f5679a6f426)
 
 ---
 ## 目錄
@@ -37,8 +39,7 @@
 flutter gen-l10n
 ```
 ## Demo影片
-
-
+[![store_ease_cover](https://github.com/YJZeng1120/store_ease_demo/assets/84773273/3679b25c-6bc0-4d08-9611-73015bc16547)](https://youtu.be/8_l8sXE4EpE)
 ## 使用工具
 - **Frontend**
     - Flutter`v3.13.9`
@@ -49,6 +50,9 @@ flutter gen-l10n
             - dio (Api Request)
             - dartz (Error handling)
         - All Dependencies:
+
+          <img width="332" alt="Screenshot 2023-12-04 at 5 30 11 PM" src="https://github.com/YJZeng1120/store_ease_demo/assets/84773273/6a92db45-0234-46e6-8aeb-21630a7f719e">
+
 
 
 - **Cloud Services**
